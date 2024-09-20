@@ -7,7 +7,7 @@ export const App = () => {
 	return (
 		<div className="app">
 			{/* Navbar Section */}
-			<nav className="app-navbar">Navbar</nav>
+			{/* <nav className="app-navbar">Navbar</nav> */}
 
 			{/* Header Section */}
 			<TaskForm></TaskForm>
